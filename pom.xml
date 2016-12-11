@@ -8,7 +8,7 @@
   	<dependencies>
   		<dependency>
   			<groupId>org.springframework.data</groupId>
-  			<artifactId>spring-data-releasetrain</artifactId>
+  			<artifactId>spring-data-releasetrain 1</artifactId>
   			<version>Gosling-RELEASE</version>
   			<type>pom</type>
   			<scope>import</scope>
